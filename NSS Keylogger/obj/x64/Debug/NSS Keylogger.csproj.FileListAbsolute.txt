@@ -1,0 +1,9 @@
+d:\documents\visual studio 2010\Projects\NSS Keylogger\NSS Keylogger\bin\x64\Debug\NSS Keylogger.exe.config
+d:\documents\visual studio 2010\Projects\NSS Keylogger\NSS Keylogger\bin\x64\Debug\NSS Keylogger.exe
+d:\documents\visual studio 2010\Projects\NSS Keylogger\NSS Keylogger\bin\x64\Debug\NSS Keylogger.pdb
+d:\documents\visual studio 2010\Projects\NSS Keylogger\NSS Keylogger\obj\x64\Debug\NSS_Keylogger.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\NSS Keylogger\NSS Keylogger\obj\x64\Debug\NSS Keylogger.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\NSS Keylogger\NSS Keylogger\obj\x64\Debug\NSS Keylogger.exe
+d:\documents\visual studio 2010\Projects\NSS Keylogger\NSS Keylogger\obj\x64\Debug\NSS Keylogger.pdb
+d:\documents\visual studio 2010\Projects\NSS Keylogger\NSS Keylogger\obj\x64\Debug\NSS_Keylogger.NSSKeyloggerForm.resources
+d:\documents\visual studio 2010\Projects\NSS Keylogger\NSS Keylogger\obj\x64\Debug\NSS_Keylogger.ProfileManager.resources
