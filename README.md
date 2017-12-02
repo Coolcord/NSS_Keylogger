@@ -38,4 +38,4 @@ Finally, it is important to note that "Subtle Mode" only hides the window.
 The process can still be seen using the task manager.
 
 If you wish to contact me about the application, or anything of the like,
-feel free to send me an email at coolcord24@gmail.com
+feel free to send me an email at coolcord24@tutanota.com
